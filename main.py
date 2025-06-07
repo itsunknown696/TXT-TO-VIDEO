@@ -38,7 +38,7 @@ photo = "https://files.catbox.moe/ug104i.jpg"
 cpphoto = "https://files.catbox.moe/ug104i.jpg"
 appxzip = "https://files.catbox.moe/ug104i.jpg"
 my_name = "ＮＯＭＩＳ"
-CHANNEL_ID = "-1002607772171"##change it with your channel 🆔 
+CHANNEL_ID = "-1002653762413"##change it with your channel 🆔 
 
 cookies_file_path = os.getenv("COOKIES_FILE_PATH", "youtube_cookies.txt")
 
